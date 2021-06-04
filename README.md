@@ -1,2 +1,2 @@
-# Comparing-idnetification-methods
-Comparing idnetification methods
+# Comparing-identification-methods
+Comparing identification methods
