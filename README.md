@@ -1,8 +1,6 @@
 ---
 title: "Comparison of identification methods"
 author: "Ramal Huseynov"
-date: "06.06.2021"
-output: html_document
 ---
 
 # Comparison of *in silico* species identification methods
