@@ -1,7 +1,3 @@
----
-title: "Comparison of identification methods"
----
-
 # Comparison of *in silico* species identification methods
 These series of R codes can make a list of organisms which are present in boh NCBI RefSeq nucleotide database and Timetree.org then compare genomic dissimilarity value and phylogenetic distances. [GenDisCal](https://github.com/LM-UGent/GenDisCal) is a tool that calculates dissimilarity values of genomes while [Timetree.org](http://www.timetree.org/) is a database that employs evolutionary distaces (phylogenetic distances) of species. Then using the list of organisms, two kind of files (one from GenDisCal, another is from Timetree.org) can be made. GenDisCal provides genetic distances (dissimilarity values) of these organisms, and Timetree.org provides phylogenetic distances. These two output files can be compared by plotting 
 
