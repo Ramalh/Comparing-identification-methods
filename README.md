@@ -1,6 +1,5 @@
 ---
 title: "Comparison of identification methods"
-author: "Ramal Huseynov"
 ---
 
 # Comparison of *in silico* species identification methods
